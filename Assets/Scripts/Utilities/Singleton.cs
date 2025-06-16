@@ -1,6 +1,6 @@
 ﻿using UnityEngine;
 
-namespace TurnBase2D.Utilities
+namespace TurnBase2D.Utilities.Singleton
 {
     /// <summary>
     /// Singleton<T> - Đóng vai trò là một lớp cơ sở cho các singleton trong Unity.
